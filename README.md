@@ -19,4 +19,4 @@ npm install
 npx hardhat run --network sepolia ./scripts/deploy_Boxv1.js
 
 - Upgrade to Boxv2:
-npx hardhat run --network sepolia ./scripts/upgrade_to_Boxv2.js
+npx hardhat run --network sepolia ./scripts/deploy_Boxv2.js
