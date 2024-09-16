@@ -12,6 +12,14 @@ Boxv2: Upgraded version with additional features or changes.
 
 ## How to Run
 - Clone the repository.
+- Create the .env File
+  
+Create a file named .env in the root of your project and add the following content:
+ALCHEMY_API_KEY=your-alchemy-api-key
+PRIVATE_KEY=your-ethereum-wallet-private-key
+ETHERSCAN_API_KEY=your-etherscan-api-key
+Replace the placeholders with your actual keys.
+
 - Install dependencies:
 npm install
 
